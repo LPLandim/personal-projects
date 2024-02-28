@@ -1,0 +1,92 @@
+[
+    {
+        "curso": "Introdução à programação",
+        "categoria": "Programação",
+        "carga_horaria": "20 horas",
+        "concluintes": 100,
+        "data_inicio": "2022-01-01",
+        "data_conclusao": "2022-01-20",
+        "descricao": "Curso introdutório à programação com Python",
+        "preco": "99.90",
+        "instrutor": {
+            "nome": "João Silva",
+            "email": "joao.silva@emailaleatorio.com",
+            "telefone": "(11) 9999-9999"
+        }
+    },
+    {
+        "curso": "Excel para iniciantes",
+        "categoria": "Produtividade",
+        "carga_horaria": null,
+        "concluintes": null,
+        "data_inicio": null,
+        "data_conclusao": null,
+        "descricao": null,
+        "preco": null,
+        "instrutor": {
+            "nome": "Maria Oliveira",
+            "email": "maria.oliveira@emailaleatorio.com",
+            "telefone": "(11) 8888-8888"
+        }
+    },
+    {
+        "curso": "Marketing digital para negócios",
+        "categoria": "Marketing",
+        "carga_horaria": "30 horas",
+        "concluintes": 75,
+        "data_inicio": "2022-03-01",
+        "data_conclusao": "2022-03-31",
+        "descricao": "Curso introdutório em marketing",
+        "preco": 89.90,
+        "instrutor": {
+            "nome": "Ana Santos",
+            "email": "ana.santos@emailaleatorio.com",
+            "telefone": "(11) 7777-7777"
+        }
+    },
+    {
+        "curso": "Inteligência artificial",
+        "categoria": "Programação",
+        "carga_horaria": "40 horas",
+        "concluintes": "",
+        "data_inicio": "2022-04-01",
+        "data_conclusao": "",
+        "descricao": "Curso avançado sobre inteligência artificial com Python",
+        "preco": 129.90,
+        "instrutor": {
+            "nome": "",
+            "email": "contato@emailaleatorio.com",
+            "telefone": ""
+        }
+    },
+    {
+        "curso": "Inglês para negócios",
+        "categoria": "Idiomas",
+        "carga_horaria": "20 horas",
+        "concluintes": 30,
+        "data_inicio": "",
+        "data_conclusao": "",
+        "descricao": "Curso de inglês para negócios",
+        "preco": 69.90,
+        "instrutor": {
+            "nome": "John Smith",
+            "email": "",
+            "telefone": ""
+        }
+    },
+    {
+        "curso": "Introdução à programação",
+        "categoria": "Programação",
+        "carga_horaria": "20 horas",
+        "concluintes": 100,
+        "data_inicio": "2022-01-01",
+        "data_conclusao": "2022-01-20",
+        "descricao": "Curso introdutório à programação com Python",
+        "preco": "99.90",
+        "instrutor": {
+            "nome": "João Silva",
+            "email": "joao.silva@emailaleatorio.com",
+            "telefone": "(11) 9999-9999"
+        }
+    }
+]

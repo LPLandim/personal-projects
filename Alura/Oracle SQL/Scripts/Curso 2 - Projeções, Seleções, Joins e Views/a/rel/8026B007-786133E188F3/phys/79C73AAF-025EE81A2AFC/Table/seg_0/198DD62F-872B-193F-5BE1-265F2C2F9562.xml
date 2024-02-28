@@ -1,0 +1,70 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="TABELA_DE_PRODUTOS" directorySegmentName="seg_0" id="198DD62F-872B-193F-5BE1-265F2C2F9562">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<schemaObject>A883943F-A85F-2112-7DAA-128DC70035A4</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>E5E925D2-83B6-5E3A-2941-A03450BA85D2</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="EMBALAGEM" id="5DD632C2-85AD-60F9-E6A8-370376BFC2D3">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PRECO_DE_LISTA" id="71C7960E-4FF0-DF27-C414-B4DA375B89DE">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SABOR" id="76EE20D1-A95A-86A5-9C95-9085EAA32CE7">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="NOME_DO_PRODUTO" id="7E834B08-55AF-CD3D-D768-216FA1CEB722">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="TAMANHO" id="92BAB318-C6CD-1705-7FED-1C6B8808DE82">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CODIGO_DO_PRODUTO" id="E207F4EC-17AA-3A78-BA93-4A50DF379432">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="PK_TABELA_DE_PRODUTOS" id="C66C7518-FCCB-9C1E-1BD1-3814A0F013D7">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<schemaObject>A883943F-A85F-2112-7DAA-128DC70035A4</schemaObject>
+<segment>13A821B6-7E0E-5655-209E-370430018762</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+</IndexProxy>
+</indexProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="PK_TABELA_DE_PRODUTOS" id="AF213C45-0194-2D56-EEB5-E241B86C1283">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:06 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<segment>13A821B6-7E0E-5655-209E-370430018762</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+<existingIndex>C66C7518-FCCB-9C1E-1BD1-3814A0F013D7</existingIndex>
+<indexSegment>13A821B6-7E0E-5655-209E-370430018762</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

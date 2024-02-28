@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="AAADAC2A-10DC-50B2-71EF-DBB4B16EB075" containerWithKeyObject="6E930E0E-2515-52D7-8F02-58E0939FA1FE" localFKIndex="13288AC0-D668-19BD-E487-738FF8C0E244" name="FK_ITENS_NOTAS_FISCAIS1">
+<sourceConnName>localhost</sourceConnName>
+<sourceObjSchema>SYSTEM</sourceObjSchema>
+<sourceObjName>FK_ITENS_NOTAS_FISCAIS1</sourceObjName>
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:02:22 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<referredTableLongName>SYSTEM.TABELA_DE_PRODUTOS</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>198DD62F-872B-193F-5BE1-265F2C2F9562</referredTableID>
+<keyObject>C66C7518-FCCB-9C1E-1BD1-3814A0F013D7</keyObject>
+<referredKeyID>C66C7518-FCCB-9C1E-1BD1-3814A0F013D7</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CODIGO_DO_PRODUTO</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

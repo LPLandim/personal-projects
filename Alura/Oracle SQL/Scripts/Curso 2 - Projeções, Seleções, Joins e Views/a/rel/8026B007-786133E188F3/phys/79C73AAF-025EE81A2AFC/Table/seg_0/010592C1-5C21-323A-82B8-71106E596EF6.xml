@@ -1,0 +1,77 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="NOTAS_FISCAIS" directorySegmentName="seg_0" id="010592C1-5C21-323A-82B8-71106E596EF6">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<schemaObject>A883943F-A85F-2112-7DAA-128DC70035A4</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>E5E925D2-83B6-5E3A-2941-A03450BA85D2</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="NUMERO" id="0E0081AF-1CAB-0B36-00F7-BB7DAC8F9E52">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CPF" id="4469B842-F0EE-F288-22A0-8FC0CAB5DC33">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MATRICULA" id="4CF4CEEC-1D8D-CF25-65F3-71526AE3CD1A">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DATA_VENDA" id="A5534CA1-D32D-FF58-DAFA-4789CD740735">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="IMPOSTO" id="BBFF0D59-D099-883D-A506-DF9947696C60">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="PK_NOTAS_FISCAIS" id="B4E243C6-4F4E-D88E-11FD-6E5C8A8B08D0">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<schemaObject>A883943F-A85F-2112-7DAA-128DC70035A4</schemaObject>
+<segment>13A821B6-7E0E-5655-209E-370430018762</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="FK_NOTAS_FISCAIS1" id="6A4B09E9-E8A0-DFBC-D672-65010A872C6F">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="FK_NOTAS_FISCAIS2" id="D3D22EAD-B99C-385D-CDF3-3FDBA994F916">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="PK_NOTAS_FISCAIS" id="B021B6AC-5298-3EBA-29A9-1725453FA827">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:40 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<segment>13A821B6-7E0E-5655-209E-370430018762</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+<existingIndex>B4E243C6-4F4E-D88E-11FD-6E5C8A8B08D0</existingIndex>
+<indexSegment>13A821B6-7E0E-5655-209E-370430018762</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

@@ -1,0 +1,70 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="TABELA_DE_VENDEDORES" directorySegmentName="seg_0" id="82D8CE99-F62B-A104-26D1-85C872F8501B">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:15 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<schemaObject>A883943F-A85F-2112-7DAA-128DC70035A4</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>E5E925D2-83B6-5E3A-2941-A03450BA85D2</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="PERCENTUAL_COMISSAO" id="1122CAD7-9A53-6E20-07BE-F2C774F91AA2">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:15 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="NOME" id="1B4EB0F7-1FA5-B2D0-6179-DE304D850FC5">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:15 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DE_FERIAS" id="3B1C4B6F-415A-94E4-70A4-A391613D8126">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:15 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MATRICULA" id="CC14CFF4-39DB-283A-CF94-2A2D989F2581">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:15 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="BAIRRO" id="F14BC12A-A7CA-08D1-000C-5461C2C506D0">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:15 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DATA_ADMISSAO" id="F5727F0A-E787-15FA-35DB-A4DEE922FA42">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:15 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="PK_TABELA_DE_VENDEDORES" id="3B646B52-4AB3-EAA6-3103-E34F51592749">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:16 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<schemaObject>A883943F-A85F-2112-7DAA-128DC70035A4</schemaObject>
+<segment>13A821B6-7E0E-5655-209E-370430018762</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+</IndexProxy>
+</indexProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="PK_TABELA_DE_VENDEDORES" id="A84EC3D5-07F5-F869-B773-6D7D56843005">
+<createdBy>Administrator</createdBy>
+<createdTime>2023-10-23 21:01:16 UTC</createdTime>
+<ownerDesignName>a</ownerDesignName>
+<segment>13A821B6-7E0E-5655-209E-370430018762</segment>
+<tableSpace>721EC75A-5460-C31F-6D47-2E4AA94E070E</tableSpace>
+<existingIndex>3B646B52-4AB3-EAA6-3103-E34F51592749</existingIndex>
+<indexSegment>13A821B6-7E0E-5655-209E-370430018762</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

@@ -1,0 +1,81 @@
+﻿Entrevistado;Sexo;Idade;Renda_familiar;Região;Amigos;Esportes;Balada;Teatro;Cinema;Shows;Filmes_Casa;Gasto_Lazer
+1;Feminino;20;Acima de 45 salários mínimos;Região Oeste;0;1;0;0;0;0;0;1000
+2;Feminino;18;De 31 a 45 salários mínimos;Centro;1;0;0;0;0;0;1;250
+3;Masculino;18;Acima de 45 salários mínimos;Região Sul;1;1;0;0;0;0;0;2200
+4;Masculino;20;Acima de 45 salários mínimos;Região Oeste;1;1;0;0;0;0;0;1500
+5;Feminino;19;De 31 a 45 salários mínimos;Região Sul;1;0;0;0;0;0;0;500
+6;Masculino;19;De 1 a 15 salários mínimos;Outra localidade;1;0;0;0;1;0;1;240
+7;Feminino;18;De 16 a 30 salários mínimos;Região Sul;1;0;0;0;0;1;1;80
+8;Masculino;19;De 31 a 45 salários mínimos;Centro;0;1;1;0;0;0;0;300
+9;Feminino;20;De 16 a 30 salários mínimos;Centro;1;0;0;0;0;0;0;500
+10;Feminino;18;Acima de 45 salários mínimos;Região Sul;1;1;0;0;0;0;0;3000
+11;Feminino;20;De 1 a 15 salários mínimos;Região Sul;1;0;0;0;0;0;0;200
+12;Feminino;18;De 16 a 30 salários mínimos;Centro;1;0;0;0;0;0;0;1000
+13;Masculino;19;De 16 a 30 salários mínimos;Centro;1;1;1;0;0;0;1;500
+14;Feminino;19;De 1 a 15 salários mínimos;Região Oeste;1;0;0;0;0;0;1;70
+15;Masculino;21;De 1 a 15 salários mínimos;Região Sul;0;0;0;0;0;0;1;250
+16;Masculino;19;De 31 a 45 salários mínimos;Outra localidade;1;0;1;0;0;0;0;250
+17;Feminino;18;De 1 a 15 salários mínimos;Região Leste;0;0;0;0;0;0;1;50
+18;Masculino;21;De 16 a 30 salários mínimos;Região Leste;1;1;0;0;0;0;1;500
+19;Masculino;19;De 31 a 45 salários mínimos;Região Oeste;1;0;0;0;0;0;1;550
+20;Masculino;21;De 1 a 15 salários mínimos;Outra localidade;1;1;0;0;1;0;1;100
+21;Feminino;18;De 1 a 15 salários mínimos;Outra localidade;1;0;0;0;1;0;1;80
+22;Masculino;21;De 16 a 30 salários mínimos;Centro;1;0;1;0;1;0;0;800
+23;Feminino;20;De 31 a 45 salários mínimos;Região Sul;1;0;1;0;1;0;1;200
+24;Feminino;18;De 31 a 45 salários mínimos;Região Oeste;1;1;1;0;0;0;0;700
+25;Feminino;19;De 31 a 45 salários mínimos;Região Oeste;0;0;0;0;0;0;1;500
+26;Masculino;21;De 1 a 15 salários mínimos;Região Oeste;1;1;1;0;1;0;1;150
+27;Masculino;19;Acima de 45 salários mínimos;Região Sul;1;1;0;0;1;0;1;1000
+28;Masculino;18;De 31 a 45 salários mínimos;Região Oeste;1;0;0;0;1;0;1;400
+29;Masculino;19;De 1 a 15 salários mínimos;Centro;1;0;1;0;0;0;1;150
+30;Masculino;17;De 31 a 45 salários mínimos;Região Sul;1;0;0;0;0;0;0;300
+31;Feminino;21;De 1 a 15 salários mínimos;Centro;0;0;0;0;0;0;1;60
+32;Feminino;17;De 1 a 15 salários mínimos;Centro;1;0;1;1;1;1;1;300
+33;Masculino;20;De 16 a 30 salários mínimos;Região Sul;1;0;0;0;1;1;1;200
+34;Masculino;20;Acima de 45 salários mínimos;Centro;1;1;1;0;0;1;0;1500
+35;Masculino;22;De 31 a 45 salários mínimos;Centro;1;0;0;0;1;0;1;600
+36;Feminino;18;De 16 a 30 salários mínimos;Região Sul;1;0;0;0;0;0;0;900
+37;Masculino;21;Acima de 45 salários mínimos;Região Oeste;1;0;1;0;1;0;1;500
+38;Masculino;20;Acima de 45 salários mínimos;Região Sul;1;0;1;0;1;0;1;800
+39;Feminino;20;De 16 a 30 salários mínimos;Região Oeste;1;0;1;0;1;0;1;500
+40;Masculino;22;De 31 a 45 salários mínimos;Região Sul;1;0;1;0;1;0;1;1300
+41;Masculino;18;De 31 a 45 salários mínimos;Região Norte;1;0;0;0;0;0;0;750
+42;Masculino;22;Acima de 45 salários mínimos;Região Oeste;0;0;0;1;0;1;1;2500
+43;Feminino;19;De 1 a 15 salários mínimos;Região Sul;1;0;0;0;0;1;1;100
+44;Masculino;24;De 1 a 15 salários mínimos;Centro;1;1;0;0;1;0;1;150
+45;Masculino;21;De 31 a 45 salários mínimos;Região Sul;1;0;0;1;1;0;1;250
+46;Masculino;18;Acima de 45 salários mínimos;Região Oeste;0;1;0;0;0;0;0;800
+47;Masculino;20;Acima de 45 salários mínimos;Região Sul;1;1;1;0;1;0;1;1000
+48;Masculino;22;Acima de 45 salários mínimos;Região Oeste;0;1;0;0;0;0;1;150
+49;Masculino;22;De 31 a 45 salários mínimos;Outra localidade;1;0;0;0;1;0;1;90
+50;Masculino;19;De 16 a 30 salários mínimos;Região Sul;1;0;1;0;0;0;0;500
+51;Feminino;19;De 31 a 45 salários mínimos;Outra localidade;1;0;0;0;0;0;1;150
+52;Feminino;19;De 1 a 15 salários mínimos;Região Sul;0;0;0;0;0;0;1;200
+53;Masculino;19;De 1 a 15 salários mínimos;Região Oeste;1;0;0;0;0;0;1;50
+54;Feminino;20;De 1 a 15 salários mínimos;Outra localidade;1;0;0;0;0;0;1;150
+55;Masculino;21;De 1 a 15 salários mínimos;Região Leste;0;0;0;0;0;0;1;200
+56;Masculino;22;De 1 a 15 salários mínimos;Região Oeste;1;0;0;0;1;0;1;300
+57;Feminino;19;De 1 a 15 salários mínimos;Região Sul;1;1;1;0;0;0;1;200
+58;Masculino;19;De 31 a 45 salários mínimos;Centro;1;1;1;0;0;0;0;500
+59;Masculino;20;Acima de 45 salários mínimos;Região Oeste;1;1;1;0;1;0;1;100
+60;Masculino;18;De 16 a 30 salários mínimos;Região Sul;0;1;0;0;1;1;1;500
+61;Feminino;18;Acima de 45 salários mínimos;Região Sul;1;0;1;0;0;0;1;400
+62;Feminino;18;De 31 a 45 salários mínimos;Região Sul;1;0;1;0;0;0;1;300
+63;Feminino;26;De 31 a 45 salários mínimos;Região Oeste;0;0;0;0;0;0;1;500
+64;Feminino;19;De 31 a 45 salários mínimos;Outra localidade;0;0;1;0;1;1;1;1000
+65;Feminino;20;Acima de 45 salários mínimos;Região Norte;0;0;0;0;0;0;1;120
+66;Masculino;19;De 31 a 45 salários mínimos;Região Sul;1;0;1;0;0;0;1;500
+67;Feminino;18;De 16 a 30 salários mínimos;Região Oeste;1;1;1;0;1;0;1;400
+68;Feminino;20;De 31 a 45 salários mínimos;Região Sul;1;1;0;1;1;0;1;1400
+69;Feminino;19;De 31 a 45 salários mínimos;Região Sul;1;0;1;0;1;0;1;500
+70;Feminino;21;Acima de 45 salários mínimos;Centro;1;0;0;0;0;0;1;2000
+71;Feminino;19;De 1 a 15 salários mínimos;Região Oeste;1;0;0;0;1;1;1;100
+72;Feminino;20;De 1 a 15 salários mínimos;Região Oeste;1;0;1;0;1;0;1;150
+73;Masculino;19;De 16 a 30 salários mínimos;Região Leste;1;0;0;0;0;0;0;300
+74;Masculino;19;Acima de 45 salários mínimos;Região Norte;1;0;0;0;0;0;0;300
+75;Feminino;20;De 31 a 45 salários mínimos;Região Sul;1;1;1;0;1;1;1;500
+76;Feminino;31;Acima de 45 salários mínimos;Outra localidade;1;0;0;1;1;0;1;1000
+77;Feminino;19;De 31 a 45 salários mínimos;Região Leste;1;1;1;1;1;0;1;1000
+78;Masculino;30;De 16 a 30 salários mínimos;Outra localidade;1;1;0;0;0;0;1;1500
+79;Masculino;19;Acima de 45 salários mínimos;Região Leste;1;1;1;0;0;0;1;1000
+80;Masculino;19;De 1 a 15 salários mínimos;Região Sul;0;0;1;0;1;0;1;450
