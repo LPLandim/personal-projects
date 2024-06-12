@@ -1,0 +1,902 @@
+imc	drugs	alcohol	tobacco	age	sex	ethnicity
+26	no	no	no	69	Masculino	Parda
+0	no	no	no	39	Masculino	Parda
+28	no	no	no	73	Masculino	Branca
+28	no	no	no	72	Masculino	Branca
+39	no	no	no	39	Feminino	Branca
+24	no	yes	yes	66	Masculino	Branca
+25	no	no	yes	68	Masculino	Branca
+24	no	no	no	34	Feminino	Parda
+27	no	no	no	60	Feminino	Branca
+25	no	no	no	49	Feminino	Parda
+29	no	no	no	81	Masculino	Branca
+30.1	no	no	yes	58	Masculino	Parda
+25	no	no	no	82	Masculino	Branca
+0	no	no	no	56	Feminino	Branca
+24	no	no	yes	61	Feminino	Branca
+36	no	no	no	47	Feminino	Branca
+34	no	no	yes	41	Feminino	Branca
+18	no	no	yes	58	Feminino	Branca
+19	no	no	yes	71	Feminino	Branca
+27	no	no	yes	62	Masculino	Branca
+22	no	no	yes	68	Feminino	Branca
+25	no	no	yes	55	Feminino	Branca
+19	no	no	yes	70	Feminino	Branca
+29	no	no	yes	70	Feminino	Branca
+23	no	no	yes	64	Feminino	Branca
+46	no	no	no	56	Feminino	Branca
+12	no	no	yes	68	Feminino	Branca
+23	no	no	yes	57	Feminino	Branca
+35	no	yes	yes	46	Feminino	Branca
+25	no	no	no	70	Masculino	Branca
+36		no	no	39	Feminino	Branca
+26	no	no	no	37	Feminino	Parda
+28	no	no	yes	40	Masculino	Branca
+30	no	no	no	42	Feminino	Branca
+28	no	no	yes	52	Feminino	Branca
+43	no	no	no	60	Masculino	Branca
+28	no	no	no	52	Feminino	Negra
+24	no	no	no	65	Masculino	Amarela
+32	no	no	no	41	Feminino	Branca
+21	no	no	no	59		Branca
+45	no	no	no	41	Feminino	Branca
+25	no	no	no	63	Feminino	Parda
+44	no	no	no	62	Feminino	Parda
+42	no	no	no	37	Feminino	Branca
+30	no	no	yes	50	Masculino	Branca
+40	no	no	no	42	Feminino	Branca
+24	no	no	no	44	Feminino	Branca
+20	no	no	no	35	Feminino	Branca
+50	no	no	no	39	Feminino	Branca
+29	no	no	no	24	Feminino	Parda
+32	no	no	no	51	Feminino	Branca
+32	no	no	no	55	Masculino	Branca
+23	no	no	no	66	Masculino	Branca
+22	no	no	no	63	Masculino	Branca
+33	no	no	no	64	Feminino	Branca
+26	no	no	no	61	Feminino	Branca
+39	no	no	no	43	Feminino	Branca
+39	no	no	no	36	Masculino	Branca
+28				43	Feminino	Branca
+39	no	no	no	45	Masculino	Branca
+43	no	no	no	50	Feminino	Branca
+28	no	no	no	27	Masculino	Branca
+33	no	no	no	42	Feminino	Branca
+30	no	no	no	43	Feminino	Branca
+40	no		no	48	Feminino	Branca
+28	no	no	no	44	Feminino	Parda
+26	no	no	no	60	Feminino	Parda
+27	no	no	no	38	Masculino	Branca
+30	no	no	no	57	Masculino	Branca
+25	no	no	no	55	Feminino	Parda
+26	no	no	no	51	Feminino	Branca
+29	no	no	no	42	Feminino	Branca
+49	no	no	no	42	Masculino	Parda
+30	no	no	no	28	Feminino	Branca
+26	no	no	no	44	Feminino	Parda
+24	no	no	yes	21	Feminino	Branca
+45	no	no	no	40	Feminino	Branca
+33	no	no	no	60	Feminino	Parda
+0	no	no	yes	57	Masculino	Branca
+33	no	no	no	61	Feminino	Branca
+0				34	Feminino	Parda
+49	no	no	no	35	Masculino	Branca
+24	no	no	yes	61	Feminino	Parda
+25	no	no	no	43	Masculino	Parda
+36	no	no	no	29	Feminino	Branca
+26	no	no	no	66	Feminino	Branca
+20	no	no	no	21	Feminino	Branca
+25	no	no	no	63	Feminino	Branca
+25	no	no	no	27	Masculino	Parda
+23	no	no	no	57	Feminino	Branca
+24	no	no	no	38	Feminino	Branca
+23	no	no	no	28	Feminino	Parda
+26	no	no	no	63	Masculino	Branca
+0	no	no	no	46	Feminino	Branca
+43	no	no	no	46	Feminino	Branca
+20	no	no	yes	64	Masculino	Branca
+21	no	no	no	64	Feminino	Branca
+30	no	no	no		Feminino	Branca
+24	no	no	no	45	Feminino	Branca
+24	no	no	no	60	Feminino	Parda
+20	no	no	no	28	Feminino	Branca
+27	no	no	no	53	Feminino	Branca
+37	no	no	yes	67	Feminino	Negra
+31	no	no	no	63	Feminino	Branca
+41	no	no	no	50	Masculino	Parda
+25	no	no	yes	68	Masculino	Branca
+28	no	no	no	52	Feminino	Branca
+36	no	no	no	59	Feminino	Parda
+21	no	no	yes	75	Feminino	Branca
+18	no	no	yes	60	Feminino	Branca
+26	no	no	no	69	Feminino	Branca
+26	no	no	no	56	Masculino	Branca
+23	no	no	yes	72	Feminino	Branca
+32	no	no	no	30	Masculino	Branca
+22	no	no	no	42	Feminino	Branca
+23	no	no	no	66	Feminino	Branca
+35	no	no	no	55	Masculino	Branca
+26	no	no	no	45	Feminino	Negra
+25	no	no	no	44	Feminino	Branca
+30	no	no	no	57	Feminino	Parda
+36	no	no	no	44	Feminino	Parda
+23	no	no	yes	50	Feminino	Branca
+19	no	no	no	36	Feminino	Branca
+40	no	no	no		Masculino	Branca
+25	no	no	yes	29	Feminino	Branca
+26	no	no	yes	61	Feminino	Branca
+21	no	no	no	39	Feminino	Parda
+23	no	no	no	60	Feminino	Branca
+23	no	no	yes	42	Feminino	Branca
+39	no	no	no	72	Feminino	Branca
+21	no	no	no	75		Parda
+52	no	no	no	44	Feminino	Branca
+31	no	no	no	72	Feminino	Branca
+28	no	no	no		Feminino	Branca
+22.76	no	no	no	29	Feminino	Branca
+34	no	no	no	22	Masculino	Branca
+0	no	no	yes	56	Masculino	Branca
+31	no	no	yes	47	Masculino	Branca
+29	no	no	no	24	Feminino	Branca
+17	no	no	no	18	Feminino	Branca
+43	no	no	no	31	Feminino	Branca
+38	no	no	no	62	Feminino	Parda
+31	no	no	no	58	Feminino	Branca
+23	no	no	no	38	Feminino	Branca
+34	no	no	no	51	Feminino	Parda
+23	no	no	no	39	Feminino	Parda
+39	no	no	no	48	Feminino	Parda
+42	no	no	no	38	Feminino	Branca
+25.34	no	no	yes	54	Feminino
+25.86	no	no	no	55	Feminino	Branca
+20.79	no	no	yes	48	Masculino	Branca
+21.2	no	no	no	53	Masculino	Branca
+36.39	no	no	no	52	Feminino	Branca
+24.69	no	no	no		Masculino	Branca
+19.83	no	no	no	67	Feminino	Branca
+36.88	no	no	yes	62	Feminino	Negra
+18.81	no	no	no	31	Feminino	Branca
+20.32	no	no	no	61	Feminino	Branca
+20.23	no	no	yes		Feminino	Parda
+0	no	no	no	77	Feminino	Branca
+27.12	no	no	no	31	Feminino	Parda
+0	no	no	yes	68	Masculino	Branca
+26.12	no	no	yes	68	Feminino	Parda
+49.94	no	no	no	45	Feminino	Branca
+28.9
+31.64	no	no	no		Feminino	Branca
+36.75	no	no	yes		Feminino	Branca
+28.4	no	no	yes		Masculino	Branca
+25.35	no	no	no		Feminino	Branca
+19.32	no	no	yes	49	Masculino	Negra
+44.44	no	no	no	64	Masculino	Branca
+27.96	no	no	no	43	Feminino	Parda
+19.72	no	no	no	22	Feminino	Branca
+23.66		no	no	32	Feminino	Parda
+31.17	no	no	no	33	Feminino	Parda
+25.71	no	no	no	58	Feminino	Branca
+25.55	no	no	yes	70	Feminino	Branca
+28.19	no	no	yes	55	Feminino	Parda
+30.48	no	no	yes	53	Feminino	Parda
+30.34	no	no	no	47	Masculino	Parda
+31.19	no	no	no	47	Feminino	Branca
+34.72	no	no	no		Feminino	Branca
+29.75	no	no	yes		Feminino	Branca
+26.67	no	no	no	54	Feminino	Branca
+25.9	no	no	yes		Feminino	Branca
+32.98	no	no	yes			Branca
+25.91	no	no	yes		Feminino	Branca
+35.11	no	no	no	44	Feminino	Branca
+23.14	no	no	no	33	Feminino	Branca
+21.51	no	no	no		Feminino	Branca
+37.63	no	no	yes	61	Feminino	Branca
+30.24	no	no	no		Masculino	Branca
+25.76	no	no	no	63	Masculino
+23.23	no	no	yes	48	Feminino	Branca
+43.14	no	no	no	57	Feminino	Negra
+0	no	no	no
+18.28	no	no	yes		Feminino	Branca
+19.81	no	no	no		Feminino	Branca
+22.98	no	no	no	20	Masculino	Parda
+42.96	no	no	no	53	Feminino	Parda
+17.3	no	no	yes		Masculino	Branca
+27.68	no	no	no		Feminino	Branca
+24.84	no	no	no		Feminino	Branca
+24.67	no	no	no		Feminino	Branca
+24.69	no	no	yes		Feminino	Branca
+27.68	no	no	no		Feminino	Branca
+21.3	no	no	no	75	Masculino	Parda
+23.87	no	no	no		Feminino	Parda
+39.14	no	no	yes	52	Feminino	Branca
+33.05	no	no	no	45	Feminino	Branca
+0	no	no	yes	48	Feminino	Branca
+24.03	no	no	no	56	Feminino	Parda
+21.7	no	no	yes	34	Masculino	Parda
+36.08	no	no	no	25	Masculino	Branca
+27.42	no	no	no	64	Masculino	Branca
+23.38	no	no	no	45	Masculino	Branca
+23.11	no	no	no	43	Feminino	Amarela
+29.17	no	no	yes	57	Feminino	Parda
+30.12	no	no	no	44	Feminino	Parda
+28.3	no	no	yes	68	Feminino	Branca
+39.78	no	no	yes	74	Feminino	Branca
+46.87	no	no	no	51	Feminino	Branca
+33.64	no	no	yes		Feminino	Branca
+36.73	no	no	yes	47	Feminino	Parda
+28.72	no	no	yes	68	Feminino	Branca
+23.42	no	no	yes	49	Feminino	Branca
+34.72	no	no	yes	63	Feminino	Branca
+24.97	no	no	no	40	Feminino	Negra
+20.77	no	no	yes	64	Feminino	Branca
+21.48	no	no	yes	64	Feminino	Branca
+29.21	no	no	no	85	Feminino	Branca
+26.92	no	no	yes	62	Feminino	Branca
+28.04	no	no	yes	54	Feminino	Parda
+32.71	no	no	no	61	Feminino	Branca
+27.47	no	no	no	40	Feminino	Negra
+24.38	no	no	no	63	Masculino	Branca
+24.11	no	no	no	42	Feminino	Parda
+25.14	no	no	no	33	Feminino	Parda
+35.37	no	no	no	59	Feminino	Negra
+22.82	no	no	yes	62	Feminino	Branca
+20.28	no	no	yes	85	Masculino	Branca
+32	no	no	yes	61	Feminino	Branca
+23.67	no	no	yes	65	Masculino	Branca
+38.06	no	no	no	40	Feminino	Branca
+28.76	no	no	yes	46	Feminino	Parda
+42.96	no	no	no	25	Feminino	Parda
+26.21	no	no	yes	62	Masculino	Branca
+30.04	no	no	no	37	Feminino	Branca
+30.07	no	no	yes	58	Feminino	Branca
+28.65	no	no	no	73	Masculino	Parda
+23.73	no	no	no	75	Masculino	Branca
+20.7			yes	71	Feminino	Branca
+28.88	no	no	no		Feminino	Branca
+24.48	no	no	no	86	Masculino	Negra
+0	no	no	no	72	Feminino	Branca
+27.55	no	no	no	68		Branca
+0	no	no	no	76	Feminino	Branca
+0	no	no	no		Feminino	Branca
+21.97	no	no	no	47	Feminino	Branca
+27.51	no	no	yes		Masculino	Branca
+19.94	no	no	yes		Feminino	Branca
+21.6	no	no	no		Masculino	Branca
+22.86	no	no	no	67	Feminino	Branca
+29.73	no	no	no		Feminino	Branca
+31.25	no	no	no	66	Feminino	Branca
+35.37	no	no	no		Feminino	Branca
+19.62	no	no	no	73	Feminino	Branca
+22.72	no	no	no	36	Feminino	Branca
+23.37	no	no	no		Feminino	Branca
+30.43	no	no	no		Masculino	Parda
+26.56	no	no	no	61	Feminino	Branca
+27.05	no	no	no		Feminino	Branca
+22.94	no	no	no		Masculino	Parda
+33.34	no	no	no	27	Feminino	Branca
+28.65	no	no	no	42	Feminino	Branca
+47.32	no	no	no		Masculino	Parda
+19.72	no	no	no	22	Feminino	Branca
+0	no	no	no	26	Feminino	Branca
+21.48	no	no	no	18		Branca
+0	no	no	no		Feminino	Branca
+0	no	no	no		Feminino	Branca
+29.13	no	no	no	65	Feminino	Parda
+0	no	no	no		Feminino	Parda
+27.58	no	no	no	68	Feminino	Negra
+30.48	no	no	no		Feminino	Branca
+29.41	no	no	no		Masculino	Branca
+23.66	no	no	no	87	Masculino	Branca
+29.32	no	no	no		Masculino	Parda
+0	no	no	no	76	Masculino	Branca
+30.11	no	no	no		Masculino	Branca
+0	no	no	no
+33.2	no	no	no		Feminino	Branca
+29.13	no	no	no		Masculino	Branca
+39.25	no	no	no	62		Branca
+30.44	no	no	no		Feminino	Branca
+28.9	no	no	no		Feminino	Branca
+28.35					Feminino	Parda
+27.73	no	no	no	57	Feminino	Branca
+26.43					Feminino	Parda
+38.97	no	no	no	52	Feminino	Branca
+26.66	no	no	no		Masculino	Branca
+36.57	no	no	no	45	Feminino	Branca
+32.03	no	no	no		Feminino	Branca
+33.28	no	no	yes	58	Feminino	Branca
+43.55	no	no	no		Feminino	Amarela
+27.55	no	no	no	36	Feminino	Branca
+37.55	no	no	no	57	Masculino	Parda
+29.37	no	no	no		Feminino	Branca
+35.55	no	no	no	66	Feminino	Branca
+36.33	no	no	no	35	Feminino	Branca
+0	no	no	no		Masculino	Branca
+27.54	no	no	no		Masculino	Branca
+0	no	no	yes		Feminino	Branca
+28.88	no	no	no		Feminino	Parda
+38.42	no	no	no	35	Masculino	Branca
+44.1	no	no	no	33	Feminino	Branca
+28.28	no	no	no		Masculino	Branca
+37.72	no	no	no		Feminino	Branca
+32.81	no	no	no		Feminino	Parda
+27.73	no	no	no		Masculino	Branca
+28.73	no	no	yes		Feminino	Branca
+41.52	no	no	no	45	Masculino	Branca
+32.42	no	no	no		Feminino	Branca
+37.77	no	no	no		Feminino	Branca
+36.93	no	no	no		Masculino	Parda
+39.44	no	no	no		Feminino	Branca
+38.79	no	no	no		Feminino	Branca
+47.96	no	no	no	40	Feminino	Negra
+41.02	no	no	yes	50	Feminino	Branca
+31.24	no	no	no	61	Feminino	Branca
+39.14	no	no	no		Feminino	Branca
+38.94	no	no	no	46	Feminino	Parda
+29.4	no	no	yes		Masculino	Branca
+34.6	no	no	no		Feminino	Parda
+31.48	no	no	yes		Masculino	Branca
+29.72	no	no	yes		Masculino	Branca
+33.3	no		yes		Masculino	Branca
+28.4	no	no	no		Masculino	Branca
+30.81	no	no	no		Masculino	Branca
+35.2	no	no	no		Feminino	Branca
+48.04	no	no	no		Feminino	Parda
+30.46	no	no	no		Feminino	Branca
+28.99	no	no	yes		Feminino	Branca
+30.1	no	no	no		Feminino	Branca
+38.3	no	no	no		Masculino	Branca
+30.32	no	no	no		Masculino	Branca
+34.28	no	no	no		Masculino	Branca
+33.02	no	no	no	46	Feminino	Branca
+27.54		no	no		Masculino	Parda
+32.91	no	no	no	47	Feminino	Branca
+34.72	no	no	no		Feminino	Branca
+30.27	no	no	no		Masculino	Branca
+29.61	no	no	no	56	Feminino	Branca
+24.34	no	no	no		Feminino	Parda
+40.83		no	no	41	Masculino	Parda
+29.06	no	no	no	44	Masculino	Branca
+25.35	no	no	no		Masculino	Branca
+19.72					Masculino	Branca
+44.99	no	no	no		Feminino	Branca
+51.26	no	no	no	28	Feminino	Branca
+36.8	no	no	no		Feminino	Branca
+31.64	no	no	no		Feminino	Branca
+45.67	no	no	no		Masculino	Branca
+38.05	no	no	no		Feminino	Branca
+42.59	no	no	no		Feminino	Branca
+33.74	no	no	no		Feminino	Branca
+32.74	no	no	no		Feminino	Branca
+27.41	no	no	no		Feminino	Branca
+39.55	no	no	no	50	Feminino	Branca
+24.33	no	no	no		Masculino	Branca
+54.45	no	no	no	27	Feminino	Branca
+37.55	no	no	no		Feminino	Branca
+32.27	no	no	no		Feminino	Branca
+31.43	no	no	no		Feminino	Branca
+36.93	no	no	no		Masculino	Parda
+27.99	no	no	no		Feminino	Negra
+26.48	no	no	no		Feminino	Parda
+0	no	no	no		Masculino	Branca
+33.87	no	no	no		Feminino	Branca
+24.97	no	no	no		Masculino	Branca
+33.17	no	no	no	40	Feminino	Branca
+26.4	no	no	no		Feminino	Branca
+42.53	no	no	no	46	Masculino	Branca
+49.07	no	no	no		Feminino	Branca
+26.66	no	no	no		Feminino	Branca
+24.97	no	no	no		Masculino	Branca
+30.46	no	no	yes	68	Feminino	Branca
+25.34	no	no	no		Feminino	Branca
+41.4	no	no	no	41	Feminino	Branca
+38.53	no	no	no	43	Feminino	Branca
+0	no	no	no		Feminino	Branca
+37.1	no	no	no	53	Feminino	Branca
+0	no	no	no		Masculino	Branca
+27.51	no	no	no		Masculino	Branca
+25.45	no	no	no		Feminino	Branca
+34.66				65	Feminino	Branca
+35.43	no	no	no		Masculino	Branca
+
+32.17	no	no	no		Feminino	Parda
+23.52	no	no	yes		Masculino	Branca
+32.88	no	no	no	77	Feminino	Parda
+24.5	no	no	yes		Feminino	Branca
+22.22	no	no	yes		Feminino	Branca
+25.18	no	no	yes	69	Masculino	Parda
+25.18	no	no	yes	64	Masculino	Branca
+25.3	no	no	yes	63	Masculino	Branca
+33.28	no	no	no	62	Feminino	Branca
+31.22	no	no	yes	64	Feminino	Branca
+0	no	no	yes	71	Masculino	Branca
+31.43	no	no	yes	70	Masculino	Branca
+32.88	no	no	no	77	Masculino	Parda
+26.98	no	no	no	66	Masculino	Branca
+33.74	no	no	no	77	Feminino	Parda
+34.37	no	no	no	64	Masculino	Negra
+25.51	no	no	no	61	Masculino	Parda
+25.34	no	no	no	51	Masculino	Parda
+25.53	no	no	no	66	Masculino	Branca
+22.65	no	no	yes	64	Masculino	Branca
+24.91	no	no	no	64	Masculino	Parda
+26.22	no	no	no	67	Masculino	Parda
+22.37	no	no	no	72	Masculino	Branca
+23.03	no	no	yes	71	Masculino	Branca
+34.71	no	no	no	43	Masculino	Branca
+22.31	no	no	no	81	Feminino	Branca
+36.21	no	no	no	61	Masculino	Parda
+34.68	no	no	no	45	Masculino	Branca
+27.19	no	no	no	80	Feminino	Parda
+31.86	no	no	no	75	Feminino	Branca
+30.38	no	no	no	67	Feminino	Branca
+36.57	no	no	no	47	Feminino	Branca
+22.37	no	no	no	64	Feminino	Branca
+36.79	no	no	no	66	Feminino	Parda
+29.75	no	no	no	75	Feminino	Parda
+27.09	no	no	yes	59	Feminino	Parda
+32.43	no	no	no	64	Feminino	Branca
+30.85	no	no	no	64	Feminino	Parda
+30.42	no	no	no	75	Masculino	Branca
+20.7	no	no	no	76	Masculino	Branca
+24.67	no	no	no	58	Feminino	Branca
+25.71	no	no	no	42	Feminino
+0	no	no	no	23	Feminino	Branca
+0	no	no	no	34	Feminino	Branca
+0	no	no	no	26	Feminino	Branca
+
+32.84	no	no	no	62	Feminino	Parda
+30.35	no	no	no	57	Masculino	Branca
+26.66	no	no	no	67	Masculino	Parda
+26.23	no	no	yes	61	Masculino	Parda
+28.88	no	no	no	62	Feminino	Branca
+25.71	no	no	no	58	Masculino	Branca
+24.23	no	no	yes	66	Feminino	Parda
+33.33	no	no	no	76	Feminino	Parda
+30.85	no	no	no	56	Feminino	Branca
+34.76	no	no	no	52	Feminino	Branca
+35.99	no	no	no		Feminino	Branca
+32.81	no	no	no		Feminino	Branca
+30.11	no	no	no		Masculino	Branca
+41.62	no	no	no		Masculino	Branca
+25.2	no	no	no	45	Feminino	Branca
+41.28	no	no	no		Masculino	Branca
+35.49	no	no	no		Masculino	Branca
+0	no	no	no	32	Feminino	Branca
+34.28	no	no	no		Feminino	Branca
+0	no	no	no	47	Feminino	Branca
+0	no	no	no	41	Feminino	Branca
+33.67	no	no	no		Feminino	Branca
+0	no	no	no	46	Feminino	Negra
+36.73	no	no	no		Feminino	Parda
+33.98	no	no	yes		Feminino	Branca
+30.66	no	no	yes		Feminino	Branca
+30.46	no	no	no		Feminino	Parda
+34.47	no	no	no		Masculino	Branca
+38.1	no	no	no		Feminino	Branca
+33.33	no	no	no		Feminino	Parda
+32.84	no	no	no		Feminino	Branca
+32.69	no	no	no		Masculino	Branca
+36.13	no	no	no		Masculino	Branca
+35.85	no	no	no		Feminino	Branca
+33.41	no	no	no		Masculino	Negra
+42.44	no	no	no		Feminino	Branca
+36.88	no	no	no		Feminino	Branca
+31.2	no	no	no		Feminino	Branca
+34.04	no	no	no		Feminino	Branca
+39.21	no	no	no		Feminino	Parda
+32.87	no	no	no		Masculino	Parda
+31.55	no	no	no		Feminino	Branca
+25.91	no	no	no		Masculino	Parda
+35	no	no	no		Feminino	Branca
+30.48	no	no	no		Feminino	Parda
+36.19	no	no	yes		Feminino	Negra
+31.62	no	no	no		Feminino	Branca
+30.85	no	no	no		Feminino	Branca
+30.71	no	no	no		Masculino	Branca
+33.21	no	no	no		Masculino	Branca
+39.06	no	no	no		Feminino	Branca
+28.88	no	no	yes		Feminino	Branca
+35.7	no	no	no		Feminino	Branca
+34.62	no	no	yes		Feminino	Parda
+31.07	no	no	no		Masculino	Branca
+31.83	no	no	no		Masculino	Branca
+31.14	no	no	no		Feminino	Parda
+29.06	no	no	yes		Masculino	Branca
+22.03	no	no	no	36	Feminino	Negra
+33.78	no	no	no		Feminino	Parda
+34.36	no	no	no		Masculino	Branca
+38.62	no	no	no		Feminino	Negra
+30.58	no	no	no		Feminino	Branca
+34.24	no	no	no		Feminino	Parda
+33.31	no	no	no		Feminino	Branca
+37.65	no	no	no	59	Feminino	Branca
+34.44	no	no	no		Feminino	Parda
+33.05	no	no	no		Feminino	Branca
+41.4	no	no	no	33	Feminino	Branca
+52.88	no	no	no	72	Feminino	Branca
+35.91	no	no	no	45	Masculino	Branca
+31.14	no	no	yes	63	Masculino	Parda
+32.83	no	no	no	35	Masculino	Branca
+28.35	no	no	no	35	Feminino	Branca
+39.54	no	no	no	83	Feminino	Branca
+30.11	no	no	no	59	Feminino	Branca
+32.27	no	no	no	39	Feminino	Parda
+30.07	no	no	no	64	Masculino	Negra
+36.84	no	no	no	50	Feminino	Branca
+39.45	no	no	no	23	Feminino	Branca
+32.44	no	no	no	65	Feminino	Parda
+32.44	no	no	no	67	Feminino	Negra
+30.46	no	no	no	54	Feminino	Branca
+26.12	no	no	no	37	Masculino	Branca
+42.74	no	no	yes	60	Masculino	Branca
+31.09	no	no	no	61	Feminino	Branca
+36.51	no	no	no	75	Feminino	Branca
+31.53	no	no	no	60	Feminino	Branca
+33.74	no	no	no	72	Masculino	Branca
+28.28	no	no	no	62	Masculino	Branca
+36.62	no	no	no	63	Feminino	Branca
+0	no	no	no	66	Feminino	Branca
+41.5	no	no	yes	53	Feminino	Branca
+30.58	no	no	no	58	Masculino	Branca
+34.93	no	no	no	46	Feminino	Branca
+36.73	no	no	no	53	Feminino	Branca
+35.15	no	no	no	64	Feminino	Branca
+32.45	no	no	no	70	Feminino	Branca
+40	no	no	no	35	Feminino	Branca
+34.17	no	no	no	61	Feminino	Branca
+32.42	no	no	no	62	Feminino	Parda
+21.48	no	no	no	64	Feminino	Negra
+20.7	no	no	no	71	Masculino	Parda
+35.7	no	no	no	72	Feminino	Branca
+29.41				75	Masculino	Branca
+22.58	no	no	no	74	Feminino	Branca
+22.6	no	no	no	74	Feminino	Parda
+36.73	no	no	no	62	Masculino	Branca
+22.65	no	no	no	47	Feminino	Negra
+30.07	no	no	no	55	Masculino	Branca
+21.14	no	no	yes	64	Masculino	Branca
+24.23	no	no	yes	75	Feminino	Branca
+27.47	no	no	no	73	Masculino	Parda
+16.79	no	no	yes	70	Feminino	Branca
+29.39	no	no	no	75	Masculino	Branca
+27.33	no	no	no	67	Masculino	Amarela
+22.89	no	no	no	71	Feminino	Branca
+28.94	no	no	no	77	Feminino	Branca
+20.31	no	no	no	72	Feminino	Parda
+23.63	no	no	no	82	Masculino	Parda
+26.49	no	yes	yes	59	Masculino	Parda
+32.04	no	no	no	76	Feminino	Branca
+26.39	no	no	no	72	Masculino	Branca
+33.05	no	no	no	59	Feminino	Branca
+23.87	no	no	no	55	Masculino	Branca
+28.12	no	no	no	75	Feminino	Branca
+34.6	no	no	no	73	Masculino	Branca
+33.98	no	no	no	78	Feminino	Branca
+39.06	no	no	yes	65	Feminino	Parda
+27.21	no	no	no	76	Feminino	Parda
+30.73	no	no	no	60	Masculino	Parda
+39.95	no	no	no	79	Feminino	Branca
+27.7	no	no	no	68	Feminino	Branca
+31.25	no	no	no	66	Feminino	Branca
+44.53	no	no	no	50	Masculino	Branca
+40.81	no	no	no	69	Feminino	Parda
+47.45	no	no	no	64	Feminino	Negra
+35.11	no	no	no	71	Feminino	Parda
+18.67	no	no	no	86	Feminino	Branca
+40.76	no	no	no	66	Masculino	Parda
+27.34	no	no	no	70	Feminino	Branca
+38.08	no	no	no	75	Feminino	Branca
+20.19	no	no	no	62	Feminino	Branca
+28.88	no	no	no	78	Feminino	Branca
+30.38	no	no	no	58	Feminino	Branca
+28.88	no	no	yes	67	Feminino	Branca
+27.76	no	no	no	73	Feminino	Branca
+0	no	no	no	54	Masculino	Branca
+31.34	no	no	no	68	Masculino	Branca
+22.83	no	no	no	75	Feminino	Branca
+29.38	no	no	no	62	Masculino	Branca
+32.76	no	no	no	67	Feminino	Branca
+23.5	no	no	no	55	Masculino	Branca
+29.38	no	no	no	72	Masculino	Branca
+30.86	no	no	no	63	Masculino	Branca
+24	no	no	no	57	Masculino	Parda
+27.68	no	no	no	45	Feminino	Branca
+41.91	no	no	no	40	Feminino	Parda
+0	no	no	no	78	Feminino	Branca
+33.07	no	no	no	33	Masculino	Branca
+35.15	no	no	no	75	Feminino	Parda
+0	no	no	no	61	Feminino	Branca
+19.03	no	no	no	23	Masculino	Branca
+28.39	no	no	no	56	Masculino	Branca
+22.77	no	no	no	69	Masculino	Branca
+25.95				73	Masculino	Branca
+22.67	no	no	yes	61	Masculino	Parda
+25.39	no	no	no	80	Feminino	Branca
+27.04	no	no	yes	86	Masculino	Branca
+21.87	no	no	no	86	Feminino	Branca
+33.28	no	no	no	81	Feminino	Branca
+21.7	no	no	no	68	Masculino	Branca
+22.4	no	no	no	70	Masculino	Parda
+26.57	no	no	no	82	Feminino	Branca
+31.14	no	no	no	65	Masculino	Branca
+43.14	no	no	no	51	Feminino	Negra
+22.4	no	no	no	74	Masculino	Branca
+30.8	no	no	no	78	Feminino	Branca
+28.19	no	no	yes	68	Feminino	Branca
+50.59	no	no	no	68	Feminino	Branca
+0	no	no	no	62	Feminino	Parda
+32.11	no	no	no	57	Masculino	Branca
+19.56	no	no	yes	73	Feminino	Branca
+24.72	no	yes	yes	60	Masculino	Branca
+50.68	no	no	no	45	Feminino	Amarela
+28.35	no	no	yes	73	Feminino	Branca
+23.12	no	no	no	66	Feminino	Branca
+0	no	no	no	67	Feminino	Branca
+35	no	no	no	63	Feminino	Branca
+22.95	no	no	no	64	Masculino	Branca
+24.55	no	no	no	54	Feminino	Branca
+23.11	no	no	no	57	Feminino	Branca
+28.72	no	no	no	68	Masculino	Branca
+24.22	no	no	yes	86	Masculino	Branca
+24.09	no	no	no	65	Masculino	Branca
+28.4	no	no	no	77	Masculino	Branca
+24.97	no	no	no	65	Feminino	Branca
+24.8	no	no	no	87	Masculino	Branca
+30.79	no	no	no	60	Masculino	Branca
+40	no	no	no	71	Feminino	Negra
+26.92	no	no	yes	67	Feminino	Negra
+28.12	no	no	no	76	Masculino	Branca
+33.34	no	no	no	66	Masculino	Branca
+26.56	no	no	no	75	Feminino	Branca
+29.32	no	no	no	62	Masculino	Parda
+35.26	no	no	no	64	Feminino	Branca
+24.53	no	no	no	52	Masculino	Parda
+29.98	no	no	yes	46	Masculino	Parda
+32.03	no	no	no	75	Masculino	Branca
+20.7	no	no	no	87	Feminino	Parda
+24.34	no	no	no	72	Feminino	Negra
+29.77	no	no	no	35	Feminino	Branca
+37.46	no	no	yes	62	Feminino	Branca
+15.03	no	no	yes	61	Feminino	Parda
+30.85	no	no	no	44	Feminino	Branca
+22.49	no	no	no	63	Feminino	Parda
+31.22	no	no	no	51	Feminino	Branca
+30.46	no	no	no	72	Masculino	Branca
+22.34	no	no	no	52	Masculino	Branca
+36.75				57	Masculino	Branca
+20.81	no	no	no	57	Feminino	Branca
+26.12	no	no	no	77	Masculino	Parda
+26.31	no	no	no	73	Feminino	Branca
+23.43	no	no	no	84	Masculino	Parda
+21.64	no	no	no	77	Feminino	Branca
+46.45	no	no	no	58	Masculino	Parda
+21.33	no	no	yes	67	Feminino	Branca
+35.15	no	no	no	60	Feminino	Branca
+27.34	no	no	no	50	Feminino	Parda
+34.69	no	no	no	73	Feminino	Branca
+22.26	no	no	yes	74	Masculino	Parda
+30.48	no	no	no	53	Feminino	Branca
+22.3	no	no	no	60	Feminino	Branca
+40.01	no	no	no	58	Masculino	Branca
+23.43	no	no	no	73	Feminino	Negra
+23.11	no	no	no	61	Feminino	Branca
+28.47	no	no	yes	66	Feminino	Negra
+20.34	no	no	yes	69	Feminino	Branca
+28.3	no	no	no	68	Masculino	Branca
+30.85	no	no	no	60	Feminino	Branca
+25.24	no	no	no	79	Masculino	Branca
+33.56	no	no	no	60	Feminino	Branca
+26.79	no	no	no	67	Masculino	Branca
+33.76	no	no	no	77	Feminino	Branca
+27.68	no	no	no	69	Feminino	Negra
+20.56	no	no	yes	79	Masculino	Branca
+0	no	no	yes	70	Masculino	Branca
+22.47	no	no	yes	70	Feminino	Branca
+0	no	no	yes	61	Masculino	Branca
+19.81	no	no	no	46	Masculino	Branca
+21.82	no	no	no		Feminino	Parda
+42.24	no	no	yes	51	Feminino	Parda
+22.49	no	no	no	53	Feminino	Branca
+23.87	no	no	no	68	Masculino	Branca
+29.38	no	no	yes	67	Masculino	Parda
+27.18	no	no	no	63	Masculino	Parda
+24	no	no	no	68	Feminino	Parda
+22.03	no	no	no	78	Feminino	Branca
+31.25	no	no	no	76	Feminino	Branca
+22.47	no	no	no	60	Feminino	Parda
+26.37	no	no	no	59	Feminino	Branca
+25.71	no	no	yes	65	Feminino	Branca
+26.44	no	no	no	82	Feminino	Branca
+0	no	no	no	73	Feminino	Branca
+28.71	no	no	yes	61	Feminino	Parda
+22.83	no	no	no	66	Masculino	Parda
+40.85	no	no	no	49	Feminino	Branca
+22.03				81	Masculino	Parda
+24.67	no	no	no	84	Masculino	Parda
+27.68	no	no	yes	44	Feminino	Branca
+20.07	no	no	no	38	Masculino	Parda
+25.53	no	no	yes	67	Feminino	Branca
+24.31	no	no	yes	70	Masculino	Branca
+36.67	no	no	no	38	Feminino	Negra
+30.99	no	no	no	36	Masculino	Amarela
+21.45	no	no	yes	65	Feminino	Branca
+27.45	no	no	yes	61	Masculino	Parda
+24.89	no	no	no	53	Masculino	Branca
+30.47	no	no	yes	70	Masculino	Branca
+27.6	no	no	no	63	Masculino	Parda
+28.7	no	no	no	62	Masculino	Branca
+42	no	no	no	61	Feminino	Branca
+22.75	no	no	no	70	Feminino	Parda
+23.66	no	no	no	62	Masculino	Branca
+20.01	no	no	yes	61	Masculino	Branca
+26.03	no	no	no	69	Feminino	Amarela
+23.72	no	no	no	82	Feminino	Branca
+35.88	no	no	yes	60	Feminino	Branca
+24.81	no	no	no	46	Masculino	Parda
+25.78				69	Feminino	Branca
+25	no	no	no	53	Feminino	Parda
+29.7	no	no	yes	53	Feminino	Negra
+27.77	no	no	no	69	Masculino	Branca
+29.41	no	no	no	69	Feminino	Branca
+0	no	no	yes	63	Masculino	Branca
+24.97	no	no	no	57	Feminino	Branca
+25.06	no	no	no	66	Feminino	Branca
+24.52	no	no	no	64	Feminino	Branca
+26.22	no	no	no	79	Feminino	Branca
+23.71	no	no	yes	53	Feminino	Parda
+25.9	no	no	no	66	Masculino	Branca
+24	no	no	yes	72	Masculino	Branca
+25	no	no	yes	72	Feminino	Branca
+29.4	no	no	yes	57	Feminino	Branca
+25.71	no	no	yes	46	Masculino	Parda
+21.51	no	no	no	56	Masculino	Parda
+24.21	no	no	no	76	Masculino	Branca
+42.56	no	no	no	44	Feminino	Negra
+28.65	no	no	no	62	Feminino	Branca
+19.53	no	no	yes	54	Feminino	Amarela
+24.91	no	no	no	59	Masculino	Branca
+26.12	no	no	no	47	Masculino	Branca
+21.82	no	no	no	20	Feminino	Branca
+21.33	no	no	no	66	Feminino	Negra
+0	no	no	no	75	Feminino	Branca
+22.37	no	no	yes	77	Feminino	Branca
+32.03	no	no	no	44	Feminino	Branca
+24.21	no	no	no	77	Masculino	Branca
+24.22	no	no	no	84	Masculino	Branca
+26.87	no	no	no	61	Masculino	Branca
+23.87	no	no	yes	66	Masculino	Branca
+27.63	no	no	no	67	Masculino	Negra
+24.8	no	no	no	53	Feminino	Branca
+22.49	no	no	no	82	Masculino	Parda
+29.24	no	no	no	49	Feminino	Branca
+19.53	no	no	yes	74	Feminino	Branca
+22.67	no	no	no	79	Masculino	Branca
+22.47	no	no	no	70	Feminino	Parda
+28.19	no	no	no	70	Feminino	Branca
+25.6	no	no	no	75	Masculino	Branca
+20.7	no	no	no	54	Feminino	Parda
+24.78	no	no	no	59	Masculino	Branca
+25.24	no	no	no	62	Masculino	Parda
+28.65	no	no	no	63	Masculino	Branca
+29.06	no	no	yes	73	Masculino	Branca
+0	no	no	yes	58	Masculino	Branca
+50.17	no	no	yes	48	Masculino	Branca
+31.25	no	no	no	70	Feminino	Branca
+24.96	no	no	no	62	Masculino	Branca
+22.77	no	no	no	64	Feminino	Branca
+24.56	no	no	no	69	Feminino	Branca
+29.38	no	no	no	77	Feminino	Parda
+24.74	no	no	no	75	Feminino	Branca
+21.77	no	no	no	65	Masculino	Parda
+32.03	no	no	no	64	Feminino	Branca
+31.11	no	no	no	85	Feminino	Parda
+33.71	no	no	no	75	Feminino	Branca
+18.35	no	no	no	62	Feminino	Branca
+26.66	no	no	yes	61	Feminino	Parda
+29.17	no	no	yes	74	Feminino	Branca
+25.95	no	no	no	75	Masculino	Branca
+38.3	yes	yes	no	45	Masculino	Parda
+35.8	no	no	no	61	Masculino	Branca
+0	no	no	no	73	Masculino	Branca
+0	no	no	no		Masculino	Branca
+21.97	no	no	yes	62	Masculino	Branca
+0	no	no	no		Feminino	Parda
+22.22	no	no	no	82	Feminino	Branca
+26.63	no	no	no	67	Feminino	Branca
+30.71	no	no	no	67	Masculino	Parda
+23.55	no	no	no	68	Feminino	Branca
+32.44	no	no	no	68	Feminino	Branca
+31.55	no	no	no	73	Feminino	Branca
+24.16	no	no	no	71	Masculino	Parda
+31.23	no	no	no	78	Masculino	Parda
+29.86	no	no	no	81	Feminino	Parda
+25.47	no	no	no	71	Feminino	Parda
+27.05	no	no	no	59	Masculino	Parda
+22.6	no	no	no	70	Masculino	Branca
+40.89	no	no	no	46	Masculino	Parda
+19.81	no	no	no	85	Feminino	Parda
+30.84	no	no	no	80	Feminino	Branca
+22.4	no	no	no	54	Masculino	Branca
+36.33	no	no	no	70	Masculino	Branca
+27.7	no	no	no	80	Feminino	Branca
+23.43	no	no	no	62	Feminino	Branca
+31.21	no	no	no	87	Feminino	Branca
+24.44	no	no	no	57	Feminino	Branca
+24.21	no	no	no	74	Masculino	Branca
+25.51	no	no	no	51	Masculino	Branca
+39.55	no	no	no	52	Feminino	Parda
+34.89	no	no	no	41	Feminino	Branca
+23.11	no	no	yes	69	Feminino	Branca
+28.13	no	no	no	65	Feminino	Branca
+31.01	no	no	no	56	Masculino	Branca
+29.4	no	no	yes	64		Branca
+27.66	no	no	no	79	Masculino	Branca
+35.99	no	no	no	55	Feminino	Branca
+25.71	no	no	yes	62	Masculino	Branca
+28.71	no	no	no	79	Masculino	Branca
+24.03	no	no	yes	69	Feminino	Branca
+31.2	no	no	no	48	Masculino	Branca
+21.92	no	no	no	23	Feminino	Negra
+20.77	no	no	no	79	Feminino	Branca
+19.62	no	no	yes	60	Feminino	Negra
+33.46	no	no	yes	38	Feminino	Branca
+22.86	no	no	no	49	Feminino	Branca
+25.46	no	no	no	75	Masculino	Branca
+32.86	no	no	no			Parda
+29.29	no	no	no	60	Feminino	Branca
+23.91	no	no	no	64	Feminino	Branca
+21.56	no	no	no		Masculino	Branca
+22.89	no	no	no	78	Feminino	Parda
+25.71	no	no	no	67	Feminino	Branca
+35.32	no	no	no	46	Feminino	Branca
+32.76	no	no	yes	71	Masculino	Branca
+28.34	no	no	no	70	Feminino	Branca
+32.11	no	no	no	83	Masculino	Branca
+27.05	no	no	no	81	Feminino	Branca
+48.44	no	yes	yes	54	Masculino	Negra
+28.44	no	no	yes	64	Feminino	Branca
+0	no	no	yes	79	Feminino	Branca
+24.69	no	no	no	62	Masculino	Branca
+55.98	no	no	no	50	Feminino	Branca
+26.36	no	no	no	71	Masculino	Branca
+21.96	no	no	no	65	Feminino	Branca
+27.04	no	no	no	75	Feminino	Branca
+25.18	no	no	yes	62	Masculino	Branca
+24.6	no	no	no	70	Feminino	Parda
+25	no	no	no	75	Feminino	Parda
+24.45	no	no	no	38	Feminino	Branca
+34.29	no	no	no	61	Feminino	Branca
+21.87	no	no	yes	61	Masculino	Branca
+30.02	no	no	yes	69	Feminino	Branca
+28.37	no	no	no	81	Masculino	Branca
+40.26	no	no	no	64	Masculino	Branca
+28.65	no	no	no	44	Feminino	Branca
+30.82	no	no	no	62	Feminino	Negra
+30.48	no	no	yes	70	Feminino	Parda
+33.15	no	no	yes	71	Feminino	Branca
+38.79	no	no	no	77		Branca
+30.82	no	no	yes	82	Masculino	Branca
+20.81	no	no	yes	59	Feminino	Parda
+26.98	no	no	no	31	Feminino	Branca
+29.13	no	no	no	41	Feminino	Branca
+18.75	no	no	no	19	Feminino	Parda
+31.6	no	no	yes	37	Feminino	Branca
+28.93	no	no	no	46	Feminino	Branca
+23.63	no	no	no	71	Feminino	Branca
+26.17	no	no	yes	64	Feminino	Branca
+36.29	no	no	no	62	Masculino	Branca
+24.11	no	no	yes	71	Masculino	Branca
+27.81	no	no	no	49	Feminino	Branca
+29.38	no	no	yes	36	Feminino	Branca
+22.31	no	no	yes	70	Feminino	Branca
+28.9	no	no	no	45	Feminino	Branca
+28.06	no	no	no	53	Masculino	Branca
+21	no	no	no	45	Feminino	Parda
+29.38	no	no	no	46		Parda
+30.48	no	no	no	49	Feminino	Branca
+24.41	no	no	no	52	Feminino	Parda
+19.46	no	no	no	39	Feminino	Parda
+20.83	no	no	yes	45	Feminino	Negra
+35.32	no	no	no	50	Feminino	Parda
+22.21	no	no	no	32	Feminino	Branca
+36.98	no	no	yes	74	Feminino	Branca
+35.05	no	no	no	42	Feminino	Branca
